@@ -1,0 +1,5 @@
+com/example/demo/application/ApplicationWithCustomBeanTests.class
+com/example/demo/autoconfigure/MyCustomAutoConfigurationTest.class
+com/example/demo/application/ApplicationTests.class
+com/example/demo/application/ApplicationWithCustomBeanTests$CustomBeanTestConfiguration.class
+com/example/demo/autoconfigure/MyCustomAutoConfigurationTest$TestUserConfiguration.class

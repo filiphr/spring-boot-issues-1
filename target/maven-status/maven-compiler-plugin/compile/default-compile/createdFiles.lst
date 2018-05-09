@@ -1,0 +1,5 @@
+com/example/demo/autoconfigure/MyCustomBean.class
+com/example/demo/autoconfigure/MyCustomAutoConfiguration$NestedConfiguration.class
+com/example/demo/autoconfigure/MyCustomAutoConfiguration.class
+com/example/demo/application/Application.class
+com/example/demo/autoconfigure/MyCustomProperties.class
